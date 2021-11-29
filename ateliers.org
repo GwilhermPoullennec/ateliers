@@ -7,6 +7,7 @@
 ** 11 février : libre
 ** 28 janvier : libre
 ** 14 janvier : libre
+[OPTION] La stratégie open source de RTE, Réseau de transport d'électricité : partenariats externes et initiatives internes.
 
 * 2021
   :PROPERTIES:
